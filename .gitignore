@@ -1,0 +1,7 @@
+.DS_Store
+.gitignore
+.RData
+.Rhistory
+.Rproj.user
+ckan-tracker.Rproj
+auth.R
