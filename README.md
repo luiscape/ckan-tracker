@@ -15,6 +15,8 @@ The only parameter you have to specify is the CKAN instance you are going to be 
 
 The resulting collection should look like this:
 
+![Screen grab](https://raw.githubusercontent.com/luiscape/ckan-tracker/master/screen_grab_sraperwiki.png)
+
 
 More Advanced Usage
 -------------------
